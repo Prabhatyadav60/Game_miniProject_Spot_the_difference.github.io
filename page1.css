@@ -1,0 +1,124 @@
+.info{
+    text-align: center;
+    font-size: 16px;
+    font-family: sans-serif;
+    color: white;
+    background-color: #f90055;
+    width: 100%;
+}
+    .header {
+    font-family: sans-serif;
+    padding: 0px;
+    font-size: 16px;
+    text-align: center;
+    margin: 0px;
+    height: 6rem;
+    width: 100%;
+    border: 2px solid black;
+    background-color: rgb(112 122 222);
+    color: white;
+    letter-spacing: 1px;
+    padding-bottom: 21px;
+}
+    #parentReal{
+        margin-left: 21px;  
+        height: 20rem;
+        border: 2px solid black;
+        background-image: url("unreal.jpg");
+        background-repeat: no-repeat;
+
+    }
+    #parentUnreal{
+        margin-left: 21px;
+           height: 20rem;
+           border: 2px solid black;
+           background-image: url("Real.jpg");
+           background-repeat: no-repeat;
+   
+       }
+    #child{
+        position: relative;
+        margin-top: 9.62rem;
+        margin-left: 3.79rem;
+        padding: 2px;
+        height: 26px;
+        width: 25px;
+        /* border: 1px solid rgb(253, 10, 10); */
+    }
+    #childA{
+        margin-top: 81px;
+        margin-left: 13px;
+        position: relative;
+        height: 37px;
+        width: 45px;
+    
+}
+#childB{
+    margin-left: 199px;
+    position: relative;
+    margin-top: -131px;
+    height: 41px;
+    width: 62px;
+}
+#childC
+{
+   
+    margin-top: -130px;
+    margin-left: 190px;
+    position: relative;
+    height: 32px;
+    width: 46px;
+}
+#childD
+{
+  
+    margin-top: -59px;
+    margin-left: 66px;
+    position: relative;
+    height: 49px;
+    width: 37px;
+}
+.hint{
+    text-align: center;
+}
+.btn{
+  
+    font-weight: bolder;
+    font-weight: 33px;
+    font-size: 20p;
+    font-family: sans-serif;
+    border-radius: 18px;
+    /* text-align: center; */
+    height: 37px;
+    width: 97px;
+    color: black;
+    background-color: rgb(68, 246, 68);
+    border: 2px solid rgb(3, 69, 3);
+    cursor: pointer;
+}
+.Click1{
+    text-decoration: none;
+    font-weight: bolder;
+    font-weight: 33px;
+    font-size: 20p;
+    font-family: sans-serif;
+    border-radius: 18px;
+    /* text-align: center; */
+    height: 40px;
+    width: 141px;
+    color: black;
+    background-color: #CDDC39;
+    border: 2px solid rgb(64, 72, 10);
+    cursor: pointer;
+}
+#showMyhint {
+    border-radius: 3px;
+    font-family: sans-serif;
+    border: 2ps solid blue;
+    color: black;
+    background-color: rgb(88, 88, 210);
+    text-align: left;
+}
+.link{
+    text-decoration: none;
+}
